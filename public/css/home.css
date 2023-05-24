@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contianer-md{
+    width: 50%;
+    background-color: #F6F6F6;
+    margin-top: 10vh;
+    border-radius: 4%;
+}
+
